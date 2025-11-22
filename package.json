@@ -1,0 +1,22 @@
+{
+  "name": "my-booknook-project",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bear-big-big/338.git"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "hs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bear-big-big/338/issues"
+  },
+  "homepage": "https://github.com/bear-big-big/338#readme"
+}
